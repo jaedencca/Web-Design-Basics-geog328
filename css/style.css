@@ -26,12 +26,12 @@ header h1 {
 }
 
 header h2 {
-  font-size: 1.4em;
-  margin-left: 400px;
+  font-size: 1.3em;
   margin-top: -60px;
   padding-bottom: 19px;
   padding-right: 13px;
   text-decoration: underline;
+  text-align: right;
 }
 
 .highlight {
